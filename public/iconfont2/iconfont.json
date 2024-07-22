@@ -1,0 +1,93 @@
+{
+  "id": "4523725",
+  "name": "opsany2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon2-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1996277",
+      "name": "硬件服务器",
+      "font_class": "hardware",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "6191550",
+      "name": "产品-线",
+      "font_class": "chanpin-xian",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "14878817",
+      "name": "云主机",
+      "font_class": "yunzhuji3",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "28544413",
+      "name": "磁盘",
+      "font_class": "disk1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "37533703",
+      "name": "公网带宽",
+      "font_class": "gongwangdaikuan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "14765681",
+      "name": "aws",
+      "font_class": "aws",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "21205587",
+      "name": "华为云",
+      "font_class": "huaweiyun",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "23112780",
+      "name": "平台管理",
+      "font_class": "pingtaiguanli",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "24082174",
+      "name": "阿里云",
+      "font_class": "aliyun1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "26254470",
+      "name": "腾讯云",
+      "font_class": "tengxunyun2",
+      "unicode": "e7cb",
+      "unicode_decimal": 59339
+    },
+    {
+      "icon_id": "26342450",
+      "name": "azure",
+      "font_class": "azure",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
+      "icon_id": "29635298",
+      "name": "平台管理",
+      "font_class": "a-pingtaiguanli3x",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
